@@ -1,0 +1,140 @@
+body, h1, h2, h3, h4, h5, h6, button, .button, label, .sub-nav dt, .sub-nav dd, .sub-nav li {
+  font-family: 'Open Sans', sans-serif;
+}
+body {
+  border-top: 20px #ff3333 solid;
+}
+h1, h2, h3 {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 500;
+}
+h1, h2, h3, a, a:visited {
+  color: #ff3333;
+}
+h2 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+h3, h4 {
+  padding-bottom: .5em;
+}
+h5 {
+  padding-bottom: 1em;
+}
+strong {
+  color: #ff3333;
+  font-weight: normal;
+}
+[data-magellan-expedition] {
+  background: #252525;
+}
+.sub-nav dt a:hover, .sub-nav dd a.hover, .sub-nav li.hover a {
+  color: #252525;
+}
+.sub-nav dt a, .sub-nav dd a, .sub-nav li a {
+  color: #fff;
+}
+.sub-nav dt.active a, .sub-nav dd.active a, .sub-nav li.active a {
+  background: #ff3333;
+}
+.container .line {
+  border-bottom: 10px solid #efefef;
+  margin-bottom: 2em;
+  padding-bottom: 2em;
+}
+.fa {
+  color: #ff3333;
+  padding-bottom: .25em;
+}
+.fa-2 {
+  font-size: 2em;
+}
+.fa-3 {
+  font-size: 3em;
+}.fa-4 {
+  font-size: 7em;
+}
+.agile-hero, .agile-footer {
+  background: #252525 url("../img/hero.png") center;
+  color: #fff;
+}
+.agile-hero {
+  margin-bottom: 1.5em; 
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+.agile-hero h1, .agile-hero h4 {
+  color: #fff;
+  border: none;
+}
+.agile-hero h4 {
+  font-weight: 300;
+  padding-top: 1em;
+}
+.about {
+  background: #222;
+  color: #fff;
+  padding-bottom: 2em;
+  padding-top: 2em;
+ }
+ .source {
+  color: #999;
+  font-family: 'Droid Serif', sans-serif;
+  font-style: italic;
+}
+button, .button, .button:hover {
+  background: #ff3333;
+  border: 1px solid #ff3333;
+}
+a.button {
+  color: #fff;
+}
+a.button:hover {
+  background: #222;
+}
+.button-join {
+  display: block;
+}
+.button-join .fa {
+  color: #fff;
+}
+.agile-footer {
+  margin-top: 2em;
+  padding-bottom: 5em;
+  padding-top: 2em;
+}
+.agile-footer p {
+  font-size: .8em;
+}
+.agile-footer img {
+  max-width: 100px;
+}
+.footer {
+  background: #ff3333;
+  margin-bottom: 0;
+  margin-top: 2em;
+  padding-bottom: .75em;
+  padding-top: 1em;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+}
+.footer .fa {
+  color: #fff;
+  padding-bottom: 0;
+}
+.footer p {
+  margin: 0;
+  padding: 0;
+}
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+  .my-magellan {
+      display:none;
+  }
+}
+@media only screen and (max-width: 40em) {
+  .my-magellan {
+      display:none;
+}
+}
