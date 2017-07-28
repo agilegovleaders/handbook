@@ -1,0 +1,7 @@
+{% if include.section.youtube_video_id %}
+  <div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;">
+      <div class="video-shortcode">
+        <iframe title="YouTube video player" src="http://www.youtube.com/embed/{{include.section.youtube_video_id}}?wmode=transparent&autoplay=0" width="600" height="350" allowfullscreen></iframe>
+      </div>
+  </div>
+{% endif %}

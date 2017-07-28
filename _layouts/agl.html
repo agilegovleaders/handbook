@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html class="" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<!--[if lte IE 8]>
+	<script type="text/javascript" src="http://www.agilegovleaders.org/wp-content/themes/Avada/assets/js/html5shiv.js"></script>
+	<![endif]-->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>{{page.title}}</title>
+
+	{% include agl_head.html %} {% include agl_inline_styles.html %} {% include agl_head_ie.html %}
+
+	<script type="text/javascript">
+		var doc = document.documentElement;
+		doc.setAttribute('data-useragent', navigator.userAgent);
+	</script>
+
+</head>
+
+<body class="home page page-id-8 page-template page-template-100-width page-template-100-width-php fusion-body no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar mobile-logo-pos-left layout-wide-mode menu-text-align-left mobile-menu-design-modern fusion-image-hovers fusion-show-pagination-text avada">
+	<div id="wrapper" class="">
+		<div id="home" style="position:relative;top:1px;"></div>
+
+		{% include agl_top.html %}
+
+		<div id="main" class="clearfix width-100" style="padding-left:30px;padding-right:30px">
+			<div class="fusion-row" style="max-width:100%;">
+				<div id="content" class="full-width">
+					<div class="page type-page status-publish ">
+
+						<div class="post-content">
+							{% include agl_top_title_white_on_red.html %}
+							<div class="fusion-clearfix" style="margin-top: 30px;"></div>
+							{% include section_nav.html %}
+							{{content}}
+						</div>
+
+						{% include agl_footer.html %}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>

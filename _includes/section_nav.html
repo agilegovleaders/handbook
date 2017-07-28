@@ -1,0 +1,17 @@
+<!-- NOTE: change the listed links on the below line, pipe | delimited -->
+{% assign nav_sections = "About Agile|Agile Manifesto|Best Practices|Resources|Topics" | split: "|" %}
+
+<div class="fusion-fullwidth fullwidth-box fusion-fullwidth-7  fusion-parallax-none nonhundred-percent-fullwidth" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:40px;padding-top:00px;padding-left:0px;padding-right:0px;background-color:rgba(255,255,255,0);">
+  <div class="fusion-row">
+    <div class="fusion-one-full fusion-layout-column fusion-column-last fusion-spacing-yes" style="margin-top:0px;margin-bottom:0px;">
+      <div class="fusion-column-wrapper">
+        <div class="fusion-title title fusion-sep-none fusion-title-size-two" style="margin-top:0px;margin-bottom:0px;">
+          {% for section in nav_sections %}
+            <a href="#{{section|slugify}}" style="padding-right: 30px;">{{section}}</a>
+          {% endfor %}
+        <div class="fusion-clearfix"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

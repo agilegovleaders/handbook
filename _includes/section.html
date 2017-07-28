@@ -1,0 +1,11 @@
+{% if include.section.style == "black" %}
+  {% include section_black.html section=include.section %}
+{% elsif include.section.style == "grey" %}
+  {% include section_grey.html section=include.section %}
+{% else %}
+  {% include section_white.html section=include.section %}
+{% endif %}
+
+{% if include.section.divider_after == true %}
+  {% include agl_section_separator.html %}
+{% endif %}
