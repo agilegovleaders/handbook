@@ -8,6 +8,8 @@ divider_after: true
 
 The Agile Manifesto was compiled by a group of brilliant programmers who believed strongly in the need for an alternative to traditional, documentation-heavy, “waterfall” development (in which a software project is planned for months or years, and then launched -- often over-budget and sadly lacking in features that are of value to users.)
 
+Agile principles have relevance beyond software development. When an organization adopts agile, it fundamentally changes its culture to be more collaborative and responsive to change. 
+
 __Agile Manifesto__
 
 “Through this work we have come to value
