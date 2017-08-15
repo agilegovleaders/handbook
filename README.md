@@ -53,10 +53,6 @@ The metadata you can provide are:
  * __style (optional):__ Section styling, which defaults to white background. Options: white, black, grey.
  * __youtube_video_id (optional):__ If present, this will embed a video after section content. The id is the alphanumeric code such as "0XpAtr24uUQ". This can be found in the video's URL, e.g. the bit after `v=` in `https://www.youtube.com/watch?v=0XpAtr24uUQ`.
 
-### Internal Page Navigation
-
-There is a special section "internal_nav" which controls the red links that navigate to sections. To change the list of sections, simply open `includes/section_nav.html` and change the list starting on line 2. Note that the list is pipe (|) delimited, so the list in quotes should look like `"About Agile|Next Section Title|Third Link"`. Each title should correspond to the exact section title specified in the respective `_sections/` file.
-
 ## Contributing
 
 Pull requests are welcome and encouraged. For simple edits (i.e. a typo), a pull request with a comment to that effect is great. For new content or major revisions, we prefer opening an issue, so that the change can be triaged and approved by the site editor.
@@ -72,6 +68,10 @@ Creating your own fork of the site makes sense for these more complex cases. Sim
 ## Maintaining the Template
 
 To make changes to the overall page template to stay in coordination with the overall AGL site, edit `layouts/agl.html`. This would include major style changes or updated top-level navigation, footer info, etc.
+
+### Internal Page Navigation
+
+There is a special section "internal_nav" which controls the red links that navigate to sections. To change the list of sections, simply open `includes/section_nav.html` and change the list starting on line 2. Note that the list is pipe (|) delimited, so the list in quotes should look like `"About Agile|Next Section Title|Third Link"`. Each title should correspond to the exact section title specified in the respective `_sections/` file.
 
 ## Running Locally
 
