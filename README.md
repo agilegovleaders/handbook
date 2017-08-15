@@ -65,7 +65,7 @@ __Note to admins: as soon as you merge/save content into the master branch, it w
 
 To make a small update, it is generally simplest to browse to and edit one of the markdown files within the `/_sections/` directory. GitHub will do some auto-magic to create a "fork" and a "pull request" behind the scenes to represent the simple edit of a single file. However, you may be doing something more complicated, such as making a batch of edits to many files and/or using more complex formatting that you want to preview.
 
-Creating your own fork of the site makes sense for these more complex cases. 
+Creating your own fork of the site makes sense for these more complex cases. Simply click the 'Fork' icon near the top-right of this page. In your forked repo (which is located at a url similar to https://github.com/YOURUSERNAME/handbook), go to the settings to use the **master** branch for GitHub Pages. See a [video of updating the setting](https://youtu.be/DDhQ57cgC6s) if you haven't done so before. You can now make changes on your own fork and preview the changes to the handbook at a url similar to https://YOURUSERNAME.github.io/handbook.
 
 ## Maintaining the Template
 
