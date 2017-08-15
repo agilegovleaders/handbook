@@ -23,11 +23,11 @@ That is, while there is value in the items on the right, we value the items on t
 
 ### Learn More
 
-[__READ: Principles behind the Agile Manifesto__](http://agilemanifesto.org/principles.html)
+[__READ: Principles behind the Agile Manifesto__](http://agilemanifesto.org/principles.html)  
 These principles can help you envision how an agile project should work.
 
-[__READ: Roles and Terms__](http://www.agilegovleaders.org/general-resources/agile-terms/)
+[__READ: Roles and Terms__](http://www.agilegovleaders.org/general-resources/agile-terms/)  
 Get familiar with the vocabulary and roles of agile.
 
-[__WATCH: Agile 101 Discussion__](https://www.youtube.com/watch?v=BJ7QzG33DK0&index=1&list=PL6vVv5oPHplQ8BElUYxyKdrVWuh7rNMRu)
+[__WATCH: Agile 101 Discussion__](https://www.youtube.com/watch?v=BJ7QzG33DK0&index=1&list=PL6vVv5oPHplQ8BElUYxyKdrVWuh7rNMRu)  
 A panel of government professionals gathers to discuss agile roles, adoption, and challenges. (1 hr)
