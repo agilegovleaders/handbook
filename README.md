@@ -61,6 +61,12 @@ The metadata you can provide are:
 
 __Note to admins: as soon as you merge/save content into the master branch, it will be published to the live site.__
 
+## Creating a Fork 
+
+To make a small update, it is generally simplest to browse to and edit one of the markdown files within the `/_sections/` directory. GitHub will do some auto-magic to create a "fork" and a "pull request" behind the scenes to represent the simple edit of a single file. However, you may be doing something more complicated, such as making a batch of edits to many files and/or using more complex formatting that you want to preview.
+
+Creating your own fork of the site makes sense for these more complex cases. 
+
 ## Maintaining the Template
 
 To make changes to the overall page template to stay in coordination with the overall AGL site, edit `layouts/agl.html`. This would include major style changes or updated top-level navigation, footer info, etc.
