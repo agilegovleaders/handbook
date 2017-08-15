@@ -4,10 +4,6 @@
 
 All of the site content is in the `_sections/` folder. The simplest way is to browse wihtin github to the section file to edit, and edit in your web browser via github. Github also allows for adding new section files. Note that the files are in markdown format with metadata in headers.
 
-### Internal Page Navigation
-
-There is a special section "internal_nav" which controls the red links that navigate to sections. To change the list of sections, simply open `includes/section_nav.html` and change the list starting on line 2. Note that the list is pipe (|) delimited, so the list in quotes should look like `"About Agile|Next Section Title|Third Link"`. Each title should correspond to the exact section title specified in the respective `_sections/` file.
-
 ### Markdown
 
 Markdown is a simple text formatting. Editing in github allows you to preview how it will look. More info:
@@ -57,9 +53,15 @@ The metadata you can provide are:
  * __style (optional):__ Section styling, which defaults to white background. Options: white, black, grey.
  * __youtube_video_id (optional):__ If present, this will embed a video after section content. The id is the alphanumeric code such as "0XpAtr24uUQ". This can be found in the video's URL, e.g. the bit after `v=` in `https://www.youtube.com/watch?v=0XpAtr24uUQ`.
 
+### Internal Page Navigation
+
+There is a special section "internal_nav" which controls the red links that navigate to sections. To change the list of sections, simply open `includes/section_nav.html` and change the list starting on line 2. Note that the list is pipe (|) delimited, so the list in quotes should look like `"About Agile|Next Section Title|Third Link"`. Each title should correspond to the exact section title specified in the respective `_sections/` file.
+
 ## Contributing
 
-__Note to admins: as soon as you merge/save content into the master branch, it will be published to the live site.__
+Pull requests are welcome and encouraged. For simple edits (i.e. a typo), a pull request with a comment to that effect is great. For new content or major revisions, we prefer opening an issue, so that the change can be triaged and approved by the site editor.
+
+__Note to admins: as soon as you merge/save content into the master branch, it will be published to the live site.__ You can create a fork (below) to avoid this, particularly if you want to preview changes first.
 
 ## Creating a Fork 
 
