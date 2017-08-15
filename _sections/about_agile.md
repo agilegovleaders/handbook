@@ -1,5 +1,5 @@
 ---
-title: What is agile?
+title: What is Agile?
 order: 100
 divider_after: true
 ---
@@ -19,7 +19,7 @@ __Agile Manifesto__
 
 That is, while there is value in the items on the right, we value the items on the left more.”
 
-## Learn More
+### Learn More
 
 [__READ: Principles behind the Agile Manifesto__](http://agilemanifesto.org/principles.html)
 These principles can help you envision how an agile project should work.
