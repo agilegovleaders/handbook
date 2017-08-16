@@ -1,33 +1,31 @@
 ---
-title: Roles
+title: 
 order: 600
 style: grey
 divider after: true
 ---
 
-The U.S. federal TechFAR Handbook offers examples of key government and contractor team members needed to effectively support Agile software development.
+brief paragraph
 
-**_Government_**
+##### Learn More
 
-**Contracting Officer (CO):**Authorized to bind the Government contractually and direct contractor action.
+[__U.S. Digital Services Playbook__](https://playbook.cio.gov/)  
+13 key “plays” that help agencies apply effective digital strategies from the private sector.
 
-**Contracting Officer’s Representative (COR):** Performs functions specifically delegated to them by the CO in writing for the particular contract/order. This individual may also serve as the Product Owner.
+[__Digital Acquisition Playbook__](https://digital-acquisition-playbook.18f.gov/)  
+Helps make you a smarter buyer of digital government services.
 
-**Project Manager:** Government manager of the Agile process. Also sometimes called Scrum Master.
+[__The TechFAR Handbook__](https://playbook.cio.gov/techfar/)  
+Highlights flexibilities in the Federal Acquisition Regulation (FAR) that allow for a more agile approach.
 
-**Legal:** Provides legal review of all documents and actions.
+[__The TechFAR Hub__](https://techfarhub.cio.gov/)  
+Explore resources to apply industry best practices to the world of digital service acquisition.
 
-**Tester:** Government user to test features and functionality of the system.
+[__Information Technology: Leveraging Best Practices to Help Ensure Successful Major Acquisitions__](http://www.gao.gov/products/GAO-14-183T)  
+Recommendations from the GAO to help agencies deliver on-time, on-budget IT projects.
 
+[__Contracting Guidance to Support Modular Development__](http://www.whitehouse.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf)  
+Guidance from OMB that helps contracting officers, in support of IT managers, plan for modular, iterative development efforts.
 
-**_Contractor_**
-
-**Developers*:** Software architects who design the system and write code.
-
-**Project Manager:** Manages the team’s execution of the project.
-
-**Tester*:** Tests features and functionality of system to uncover software bugs in functional and non-functional areas of the system; ensures system functionality.
-
-**Interface:** Ensures system can communicate with other systems or people as needed. This is not a required team member; membership depends on project needs.
-
-_*Cross functional individuals should occupy these roles (developers and testers are both able to work each position). Automated testing is encouraged where the tester can write and run automated tests that are supplemented with exploratory testing. (Source: [The TechFAR Handbook for Procuring Digital Services Using Agile Processes](https://github.com/usds/playbook/blob/gh-pages/_includes/techfar-online.md#appendix-b))_
+[__Effective Practices and Federal Challenges in Applying Agile Methods__](http://www.afei.org/WorkingGroups/ADAPT/Documents/GAO%20Agile%20Report.pdf)  
+The GAO identifies practices that help agencies more effectively implement agile.
