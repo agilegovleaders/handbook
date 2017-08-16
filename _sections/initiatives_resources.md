@@ -1,7 +1,7 @@
 ---
-title: 
+title: Initiatives / Resources
 order: 600
-style: grey
+style: white
 divider after: true
 ---
 
