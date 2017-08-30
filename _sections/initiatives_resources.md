@@ -5,7 +5,7 @@ style: white
 divider after: true
 ---
 
-brief paragraph
+To help government agencies build effective digital services, authoritative bodies such as USDS, OMB, and GAO have provided guidance and recommendations around the use of agile methods and how they can be applied to various government-specific challenges. 
 
 ##### Learn More
 
