@@ -4,7 +4,7 @@ order: 900
 style: grey
 ---
 
-Learn more
+**Learn more**
 
 [READ: Guidelines for Agile, Challenge-Based Procurement](https://hackernoon.com/guidelines-for-agile-challenge-based-procurement-4531ff335422#.995bgxk53)
 Firms should “show, not tell” what they can do for government IT, proving their agile chops.
