@@ -21,5 +21,5 @@ Overview of how acquisition can be made flexible and iterative to accommodate ag
 [LISTEN: Driving Agile IT Procurement](https://www.fai.gov/media_library/items/show/80)
 Acquisition professionals explain their success with innovative IT contract strategies. (16 min)
 
-<audio width="300" height="32" controls="controls"><source src="/drupal/sites/default/files/audio/041615Podcast.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
+<audio width="300" height="32" controls="controls"><source src="https://www.fai.gov/drupal/sites/default/files/audio/041615Podcast.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
 
