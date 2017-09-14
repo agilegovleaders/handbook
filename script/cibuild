@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+
+bundle exec jekyll build
+bundle exec htmlproofer --enforce-https false --check-favicon --only-4xx ./_site 
