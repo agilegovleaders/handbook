@@ -1,5 +1,8 @@
 # AGL Handbook
 
+## TEMPORARY: Doc Source
+The google doc that is the source for sections in the issues is at: [https://docs.google.com/document/d/1BGP27VMCatSlKkoKkLBTpxnwpiloJNWBXqFJTfRwW9Y](https://docs.google.com/document/d/1BGP27VMCatSlKkoKkLBTpxnwpiloJNWBXqFJTfRwW9Y/edit#).
+
 ## Editing Content
 
 All of the site content is in the `_sections/` folder. The simplest way is to browse wihtin github to the section file to edit, and edit in your web browser via github. Github also allows for adding new section files. Note that the files are in markdown format with metadata in headers.
