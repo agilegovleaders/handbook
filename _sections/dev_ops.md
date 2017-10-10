@@ -30,5 +30,6 @@ How three federal agencies are using DevOps to keep their IT systems up to date.
 [**LISTEN: DevOps Helping Two Agencies Take On Complex IT Modernization**](https://federalnewsradio.com/ask-the-cio/2017/08/devops-helping-two-agencies-take-on-complex-it-modernization-efforts/)  
 The USCIS and and FCC discuss their experiences and strategies for DevOps success.
 
-[**LISTEN: DevOps Helping Two Agencies Take On Complex IT Modernization**](https://fcw.com/articles/2017/04/28/comment-devops-compliance.aspx)  
-The USCIS and and FCC discuss their experiences and strategies for DevOps success.
+[__READ: Why Compliance Demands a DevOps Approach__](https://fcw.com/articles/2017/04/28/comment-devops-compliance.aspx)  
+Learn how DevOps automation can help agencies achieve compliance.
+
