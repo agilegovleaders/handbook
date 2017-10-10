@@ -5,7 +5,7 @@ style: white
 divider after: true
 ---
 
-To help government agencies build effective digital services, authoritative bodies such as USDS, OMB, and GAO have provided guidance and recommendations around the use of agile methods and how they can be applied to various government-specific challenges. 
+To help government agencies build effective digital services, authoritative bodies such as USDS, NASCIO, OMB, and GAO have provided guidance and recommendations around the use of agile methods and how they can be applied to various government-specific challenges. 
 
 ##### Learn More
 
@@ -21,8 +21,8 @@ Highlights flexibilities in the Federal Acquisition Regulation (FAR) that allow 
 [__The TechFAR Hub__](https://techfarhub.cio.gov/)  
 Explore resources to apply industry best practices to the world of digital service acquisition.
 
-[__Information Technology: Leveraging Best Practices to Help Ensure Successful Major Acquisitions__](http://www.gao.gov/products/GAO-14-183T)  
-Recommendations from the GAO to help agencies deliver on-time, on-budget IT projects.
+[__Agile IT Delivery: Imperatives for Government Success__](https://www.nascio.org/Publications/ArtMID/485/ArticleID/556/Agile-IT-Delivery-Imperatives-for-Government-Success)  
+The National Association of State Chief Information Officers (NASCIO) reports best practices for agile at the state level.
 
 [__Contracting Guidance to Support Modular Development__](http://www.whitehouse.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf)  
 Guidance from OMB that helps contracting officers, in support of IT managers, plan for modular, iterative development efforts.
