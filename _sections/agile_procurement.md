@@ -4,7 +4,8 @@ order: 900
 style: grey
 ---
 
-**Learn more**  
+##### Learn more  
+
 [__READ: Going Agile - The New Mind-Set For Procurement Officials__](https://dupress.deloitte.com/dup-us-en/industry/public-sector/agile-in-government-procurement-mindset.html)  
 How does agile change the role of the acquisition officer?
 
