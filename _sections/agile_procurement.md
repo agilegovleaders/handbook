@@ -19,13 +19,13 @@ Federal leaders share ideas for achieving benefits of agile within current acqui
 How a consulting group inside the GSA created a Blanket Purchase Agreement for agile.
 
 [__WATCH: Basic Agile Acquisition__](https://www.fai.gov/media_library/items/show/99)  
-Overview of how acquisition can be made flexible and iterative to accommodate agile. (1 hr)  
+Overview of how acquisition can be made flexible and iterative to accommodate agile.  
   <video style="width: 100%" controls preload="metadata" poster="https://www.fai.gov/drupal/sites/default/files/video/cio-council-videos-2015/CIO-Council-Logo3.jpg" src="https://www.fai.gov/drupal/sites/default/files/video/cio-council-videos-2015/5-Basic-Agile-Acquisition.mp4" type="video/mp4">
   Your browser does not support the video tag. Please click the link above to be taken to the FAI webpage to view.
     </video>  
 _Source: Federal Acquisition Institute_
 
 [__LISTEN: Driving Agile IT Procurement__](https://www.fai.gov/media_library/items/show/80)  
-Acquisition professionals explain their success with innovative IT contract strategies. (16 min)  
+Acquisition professionals explain their success with innovative IT contract strategies.  
 <audio preload="metadata" style="width: 100%;" controls="controls" src="https://www.fai.gov/drupal/sites/default/files/audio/041615Podcast.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>  
 _Source: Federal Acquisition Institute_
