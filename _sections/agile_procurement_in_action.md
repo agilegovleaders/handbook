@@ -24,7 +24,7 @@ Examples and tips on how agile acquisition has been successful in Federal govern
 </video>  
 _Source: Federal Acquisition Institute_
 
-[LISTEN: USCIS Eyes More Collaboration, Competition in Move to Agile Development](https://federalnewsradio.com/ask-the-cio/2015/01/uscis-eyes-more-collaboration-competition-in-move-to-agile-development/)  
+[__LISTEN: USCIS Eyes More Collaboration, Competition in Move to Agile Development__](https://federalnewsradio.com/ask-the-cio/2015/01/uscis-eyes-more-collaboration-competition-in-move-to-agile-development/)  
 Mark Schwartz, former CIO of USCIS, explains how agile vendors can compete for government work. (45 min)  
 <audio controls="controls" preload="metadata" style="width: 100%;" src="https://1yxsm73j7aop3quc9y5ifaw3-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/372109.mp3?_=1" type="audio/mpeg"> Your browser does not support the audio element. Please click the link above to be taken to the Federal News Radio site. </audio>
 _Source: Federal News Radio_
