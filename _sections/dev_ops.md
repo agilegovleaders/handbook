@@ -12,7 +12,7 @@ The CALMS framework describes the main requirements to DevOps adoption:
 
 + **C**ulture: DevOps requires collaboration and communication between the Dev and IT/Ops teams for its successful implementation. One way of accomplishing this is to create product teams for any development effort with the inclusion of the operations personnel.  
 + **A**utomation: Automation across the build, test and deployment are central to the practice of DevOps. Teams new to DevOps will start with building up their continuous integration abilities with an emphasis on automated testing practices. Continuous deployment is the next step in the maturity matrix of DevOps.  
-+ **L**ean (See Lean Management below): Within DevOps, continuous improvement is extremely important. Processes that hinder its adoption need to be streamlined.  
++ **L**ean (See Lean Government below): Within DevOps, continuous improvement is extremely important. Processes that hinder its adoption need to be streamlined.  
 + **M**easurement: Any improvement has to be backed up by data. The practice of DevOps starts with identifying key metrics and then building these up to include more as the practice matures.  
 + **S**haring: This is part of the communication aspect of the DevOps philosophy and emphasizes sharing of information between the development and operations teams to ensure that delivery problems are addressed efficiently.  
 
