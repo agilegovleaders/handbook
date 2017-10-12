@@ -1,6 +1,6 @@
 ---
 title: Case Studies
-order: 1500
+order: 875
 style: grey
 ---
 
