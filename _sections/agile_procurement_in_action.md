@@ -18,13 +18,13 @@ An insider’s take on what happened to the FLASH agile contract vehicle.
 One vendor’s inspiring response to DHS’ agile contract attempt.
 
 [__WATCH: Agile Acquisitions 101__](https://www.fai.gov/media_library/items/show/81)  
-Examples and tips on how agile acquisition has been successful in Federal government. (1.5 hrs)
+Examples and tips on how agile acquisition has been successful in Federal government.
 <video style="width: 100%" controls preload="metadata" poster="https://www.fai.gov/drupal/sites/default/files/video/agile101.jpg" src="https://www.fai.gov/drupal/sites/default/files/video/agile101.mp4" type="video/mp4">
   Your browser does not support the video tag. Please click the link above to be taken to the FAI webpage to view.
 </video>  
 _Source: Federal Acquisition Institute_
 
 [__LISTEN: USCIS Eyes More Collaboration, Competition in Move to Agile Development__](https://federalnewsradio.com/ask-the-cio/2015/01/uscis-eyes-more-collaboration-competition-in-move-to-agile-development/)  
-Mark Schwartz, former CIO of USCIS, explains how agile vendors can compete for government work. (45 min)  
+Mark Schwartz, former CIO of USCIS, explains how agile vendors can compete for government work.  
 <audio controls="controls" preload="metadata" style="width: 100%;" src="https://1yxsm73j7aop3quc9y5ifaw3-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/372109.mp3?_=1" type="audio/mpeg"> Your browser does not support the audio element. Please click the link above to be taken to the Federal News Radio site. </audio>
 _Source: Federal News Radio_
