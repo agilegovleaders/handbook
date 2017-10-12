@@ -4,7 +4,7 @@ order: 1100
 style: grey
 ---
 
-Government regulations, bureaucracy, and culture all present unique challenges to the implementation of agile practices. Leaders in government transformation have explored ways to overcome these barriers and successfully bring agile to the public sector. 
+Government regulations, legacy systems, and resistant culture all present unique challenges to the implementation of agile practices. Leaders in government transformation have explored ways to overcome these barriers and successfully bring agile to the public sector. 
 
 ##### Learn more
 
