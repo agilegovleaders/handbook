@@ -19,10 +19,6 @@ One vendor’s inspiring response to DHS’ agile contract attempt.
 
 [__WATCH: Agile Acquisitions 101__](https://www.fai.gov/media_library/items/show/81)  
 Examples and tips on how agile acquisition has been successful in Federal government.
-<video style="width: 100%" controls preload="metadata" poster="https://www.fai.gov/drupal/sites/default/files/video/agile101.jpg" src="https://www.fai.gov/drupal/sites/default/files/video/agile101.mp4" type="video/mp4">
-  Your browser does not support the video tag. Please click the link above to be taken to the FAI webpage to view.
-</video>  
-_Source: Federal Acquisition Institute_
 
 [__LISTEN: USCIS Eyes More Collaboration, Competition in Move to Agile Development__](https://federalnewsradio.com/ask-the-cio/2015/01/uscis-eyes-more-collaboration-competition-in-move-to-agile-development/)  
 Mark Schwartz, former CIO of USCIS, explains how agile vendors can compete for government work.  
