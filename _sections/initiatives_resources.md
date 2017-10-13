@@ -5,7 +5,7 @@ style: white
 divider after: true
 ---
 
-To help government agencies build effective digital services, authoritative bodies such as USDS, NASCIO, OMB, and GAO have provided guidance and recommendations around the use of agile methods and how they can be applied to various government-specific challenges. 
+To help government agencies build effective digital services, organizations such as United States Digital Service (USDS), 18F (within GSA), and the National Association of State CIOs (NASCIO) have provided guidance and resources for the use of agile methods and how they can be applied to various government-specific challenges. 
 
 ##### Learn More
 
