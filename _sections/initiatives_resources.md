@@ -23,9 +23,3 @@ Explore resources to apply industry best practices to the world of digital servi
 
 [__Agile IT Delivery: Imperatives for Government Success__](https://www.nascio.org/Publications/ArtMID/485/ArticleID/556/Agile-IT-Delivery-Imperatives-for-Government-Success)  
 The National Association of State Chief Information Officers (NASCIO) reports best practices for agile at the state level.
-
-[__Contracting Guidance to Support Modular Development__](http://www.whitehouse.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf)  
-Guidance from OMB that helps contracting officers, in support of IT managers, plan for modular, iterative development efforts.
-
-[__Effective Practices and Federal Challenges in Applying Agile Methods__](http://www.afei.org/WorkingGroups/ADAPT/Documents/GAO%20Agile%20Report.pdf)  
-The GAO identifies practices that help agencies more effectively implement agile.
