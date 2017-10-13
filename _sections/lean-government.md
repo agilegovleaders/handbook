@@ -3,11 +3,7 @@ title: Lean Government
 order: 1400
 ---
 
-Agile methods aren’t always a good fit for every team or project in government. A similar philosophy, Lean, has been adopted in some agencies as a way to provide maximum value to customers and minimize waste in processes or resources. 
-
-Lean originated within the Toyota Motor Corporation as a means of reducing problems in the manufacturing process, and it emphasizes customer value above all else. It seeks to provide this value by minimizing “waste” in processes across the flow of products and services in a value stream. A value stream is defined as the entire series of events that would result in a finished product or a service to a customer. 
-
-Lean for government focuses on governing and serving citizens with respect and continuously improving service delivery by cutting out waste and inefficiency in processes; this in turn will result in better services overall, engaged civil servants, and more value for tax-supported programs and services. (*Source: [Wikipedia](https://en.wikipedia.org/wiki/Lean_Government)*)
+Lean (a philosophy similar to agile) for government focuses on governing and serving citizens with respect and continuously improving service delivery by cutting out waste and inefficiency in processes; this in turn will result in better services overall, engaged civil servants, and more value for tax-supported programs and services. (*Source: [Wikipedia](https://en.wikipedia.org/wiki/Lean_Government)*)
 
 ##### Learn more
 
