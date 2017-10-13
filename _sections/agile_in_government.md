@@ -30,6 +30,3 @@ OMB has seen significant improvements to their service delivery using agile meth
 
 [__READ: DHS shifting to cloud, agile development to boost homeland security__](http://www.computerworld.com/s/article/9237732/DHS_shifting_to_cloud_agile_development_to_boost_homeland_security)  
 The Department of Homeland Security allows users to inform their development process. 
-
-[__READ: Sometimes It Just May Take A Waterfall To Become Agile__](https://www.scrumalliance.org/community/articles/2013/november/success-story-sometimes-it-just-may-take-a-waterfa)  
-How a waterfall-based program took the agile plunge for a federal customer.
