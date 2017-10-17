@@ -6,6 +6,8 @@ The AGL Handbook is a resource for government practitioners to aid in adoption o
 
 Feedback is welcomed! This is a community effort, so please do use this repository as the means to provide feedback and suggestions. Please open an issue if you have identified something that could be changed or added.
 
+*Note, you can view issues either via the [GitHub issues](https://github.com/agilegovleaders/handbook/issues) feature, or via the more visual kanban-style [Waffle Board](https://waffle.io/agilegovleaders/handbook) - it's the same underlying data either way.*
+
 # Contributing
 
 Pull requests are welcome and encouraged. For simple edits (i.e. a typo), a pull request with a comment to that effect is great. For new content or major revisions, we prefer opening an issue, so that the change can be triaged and approved by the site editor.
