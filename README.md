@@ -1,5 +1,7 @@
 # AGL Handbook
 
+The AGL Handbook is a resource for government practitioners to aid in adoption of agile practices. 
+
 ## Feedback and Issues
 
 Feedback is welcomed! This is a community effort, so please do use this repository as the means to provide feedback and suggestions. Please open an issue if you have identified something that could be changed or added.
