@@ -1,7 +1,20 @@
 # AGL Handbook
 
-## TEMPORARY: Doc Source
-The google doc that is the source for sections in the issues is at: [https://docs.google.com/document/d/1BGP27VMCatSlKkoKkLBTpxnwpiloJNWBXqFJTfRwW9Y](https://docs.google.com/document/d/1BGP27VMCatSlKkoKkLBTpxnwpiloJNWBXqFJTfRwW9Y/edit#).
+## Feedback and Issues
+
+Feedback is welcomed! This is a community effort, so please do use this repository as the means to provide feedback and suggestions. Please open an issue if you have identified something that could be changed or added.
+
+# Contributing
+
+Pull requests are welcome and encouraged. For simple edits (i.e. a typo), a pull request with a comment to that effect is great. For new content or major revisions, we prefer opening an issue, so that the change can be triaged and approved by the site editor.
+
+__Note to admins: as soon as you merge/save content into the master branch, it will be published to the live site.__ You can create a fork (below) to avoid this, particularly if you want to preview changes first.
+
+## Creating a Fork 
+
+To make a small update, it is generally simplest to browse to and edit one of the markdown files within the `/_sections/` directory. GitHub will do some auto-magic to create a "fork" and a "pull request" behind the scenes to represent the simple edit of a single file. However, you may be doing something more complicated, such as making a batch of edits to many files and/or using more complex formatting that you want to preview.
+
+Creating your own fork of the site makes sense for these more complex cases. Simply click the 'Fork' icon near the top-right of this page. In your forked repo (which is located at a url similar to https://github.com/YOURUSERNAME/handbook), go to the settings to use the **master** branch for GitHub Pages. See a [video walkthrough of updating the setting](https://youtu.be/DDhQ57cgC6s) if you haven't done so before. You can now make changes on your own fork and preview the changes to the handbook at a url similar to https://YOURUSERNAME.github.io/handbook.
 
 ## Editing Content
 
@@ -56,17 +69,7 @@ The metadata you can provide are:
  * __style (optional):__ Section styling, which defaults to white background. Options: white, black, grey.
  * __youtube_video_id (optional):__ If present, this will embed a video after section content. The id is the alphanumeric code such as "0XpAtr24uUQ". This can be found in the video's URL, e.g. the bit after `v=` in `https://www.youtube.com/watch?v=0XpAtr24uUQ`.
 
-## Contributing
-
-Pull requests are welcome and encouraged. For simple edits (i.e. a typo), a pull request with a comment to that effect is great. For new content or major revisions, we prefer opening an issue, so that the change can be triaged and approved by the site editor.
-
-__Note to admins: as soon as you merge/save content into the master branch, it will be published to the live site.__ You can create a fork (below) to avoid this, particularly if you want to preview changes first.
-
-## Creating a Fork 
-
-To make a small update, it is generally simplest to browse to and edit one of the markdown files within the `/_sections/` directory. GitHub will do some auto-magic to create a "fork" and a "pull request" behind the scenes to represent the simple edit of a single file. However, you may be doing something more complicated, such as making a batch of edits to many files and/or using more complex formatting that you want to preview.
-
-Creating your own fork of the site makes sense for these more complex cases. Simply click the 'Fork' icon near the top-right of this page. In your forked repo (which is located at a url similar to https://github.com/YOURUSERNAME/handbook), go to the settings to use the **master** branch for GitHub Pages. See a [video walkthrough of updating the setting](https://youtu.be/DDhQ57cgC6s) if you haven't done so before. You can now make changes on your own fork and preview the changes to the handbook at a url similar to https://YOURUSERNAME.github.io/handbook.
+# More Advanced Editing
 
 ## Maintaining the Template
 
