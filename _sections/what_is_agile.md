@@ -29,4 +29,4 @@ These principles can help you envision how an agile project should work.
 Get familiar with the vocabulary and roles of agile.
 
 [__WATCH: Agile 101 Discussion__](https://www.youtube.com/watch?v=BJ7QzG33DK0&index=1&list=PL6vVv5oPHplQ8BElUYxyKdrVWuh7rNMRu)  
-A panel of government professionals gathers to discuss agile roles, adoption, and challenges. (1 hr)
+A panel of government professionals gathers to discuss agile roles, adoption, and challenges.
