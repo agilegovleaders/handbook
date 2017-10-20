@@ -34,6 +34,6 @@ Kickstart your agile efforts with these simple tips.
 Best practices for leading  effectively in a world where citizens expect real-time engagement.
 
 **[LISTEN: Managing and Delivering Digital Services For Agile Software Development](https://www.fai.gov/media_library/items/show/92)**  
-Chris Cairns of 18F explains the key strengths of an agile project manager. (12 min)
+Chris Cairns of 18F explains the key strengths of an agile project manager.
 
 
