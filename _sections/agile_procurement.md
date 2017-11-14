@@ -3,6 +3,11 @@ title: Agile Acquisition / Procurement
 order: 900
 style: grey
 ---
+The traditional government procurement approach, heavy on functional specifications and fixed prices, is at odds with the collaborative and evolving nature of agile projects. Some acquisition officials are re-thinking the government procurement process to place more emphasis on HOW products are executed, rather than WHAT is being developed. Their goal is to hire agile teams who will work with users and provide a final product that solves real problems, avoiding the comprehensive listing of features up-front that may become irrelevant by the end of the project.
+
+Some agencies are trying to make it easier for small agile firms to sell to government by creating  “agile development vendor pools” or “agile blanket purchase agreements”. Other agencies have experimented with  “tech demos”, where vendors have a chance to show their agile skills in a live technical challenge, instead of writing long-winded proposals.
+
+Much work remains to be done to bridge the gap between traditional acquisition methods and best agile practices -- but IT leaders from industry and government have teamed up to work on the challenge, and have seen some promising successes.
 
 ##### Learn more  
 
