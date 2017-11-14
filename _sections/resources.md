@@ -1,5 +1,5 @@
 ---
-title: Initiatives / Resources
+title: Resources
 order: 600
 style: white
 divider after: true
