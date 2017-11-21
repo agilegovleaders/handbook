@@ -19,8 +19,8 @@ The [U.S. federal TechFAR Handbook](https://github.com/WhiteHouse/playbook/blob/
 
 ##### Learn More
 
-[__READ: Why Agile in Government?__](http://www.agilegovleaders.org/why-agile/)  
-Quick summary of the benefits agile brings to gov, written by a local government IT manager.
+[__READ: Agile in Government__](https://dupress.deloitte.com/content/dam/dup-us-en/articles/3897_Agile-in-government/DUP_Agile-in-Government-series.pdf)  
+Playbook on Agile in Government from the Deloitte Center for Government Insights.
 
 [__READ: A Story of an Agile Workshop__](https://18f.gsa.gov/2015/02/11/a-story-of-an-agile-workshop/)  
 How a group of folks at the Social Security Administration got a grip on agile in one day. 
