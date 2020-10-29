@@ -21,6 +21,9 @@ The CALMS framework describes the main requirements to DevOps adoption:
 [**Read: What is DevOps**](https://theagileadmin.com/what-is-devops/)  
 Breakdown of the basic concepts and practices of DevOps.
 
+[**Read: What is DevOps (Guide for 2020)**](https://logit.io/blog/post/what-is-devops)
+Updated technical guide including contribution from David Johnson, the CTO who introduced DevOps to IBM.
+
 [**READ and WATCH: DevOps - Deploy Better Software Faster**](https://puppet.com/solutions/devops)  
 Understand the context for DevOps, how it came to be, and what it means for IT.
 
